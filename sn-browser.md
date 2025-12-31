@@ -7,6 +7,8 @@
 - DNS
 - VPN
 
+- system > system > startup boost && running background when closed
+
 - when close > [terminal background, clear data, stop transmit data] when close
 
 ---
