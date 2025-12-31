@@ -1,3 +1,6 @@
-- firewall
-- dns
 - NIC
+
+- Firewall
+- DNS
+- VPN
+- Random MAC
