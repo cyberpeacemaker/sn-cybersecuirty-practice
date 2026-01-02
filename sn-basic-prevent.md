@@ -1,3 +1,5 @@
 - arp poison
+- dhcp poison
+- mDNS, Discover poison
 - dns hijacking
 - session hijacking

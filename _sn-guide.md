@@ -1,6 +1,8 @@
 # 0.
 - router (support wifi7, WPA3)
 
+- WHOIS
+
 # 1.PC
 
 ## Windows Secuirty
@@ -19,7 +21,7 @@
 - NIC [uncheck adapter items , WINS > uncheck LMHOSTS and NetBIOS]
 - DNS, [Dynmaic Keyword, DoH, **zero trust DNS**]
 - advanced sharing setting
-- always on VPN
+- always on VPN, secure network
 
 ## Remote
 - `Disable-PSRemoting -Force`
