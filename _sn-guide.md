@@ -50,6 +50,10 @@ msinfo32.exe
 
 # 2. Browsing
 
+## Habit
+Lock (Windoes + L)
+Logout
+
 ## Browser
 
 ## Email

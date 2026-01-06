@@ -1,6 +1,13 @@
 - backup and sync disable
 - rename and set pwd for built-in administrator
+
+get-Process/Service/NetTCPConnection
+get-FileHash
+- ADS `get-item -path PATH -stream *`
+docker ps -a --format json | ConvertFrom-Json | Select-Object Names, Status
 ```shell
+
+
 # This renames the account from 'Administrator' to something random like 'Ghost_Admin'
 wmic useraccount where name='Administrator' rename 'Ghost_Admin'
 net user Administrator *
